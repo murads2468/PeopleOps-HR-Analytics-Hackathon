@@ -1,0 +1,7 @@
+payroll_month,reconciliation_status,employee_months,approved_hours,paid_hours,overtime_amount,net_hours_difference
+2026-04,Hours matched,1119,5525.5,5525.5,2814309,0.0
+2026-05,Hours matched,1081,5806.5,5806.5,2855346,0.0
+2026-06,Hours matched,1101,5889.0,5889.0,2925658,0.0
+2026-07,Hours matched,1095,6249.0,6249.0,3366750,0.0
+2026-08,Hours matched,1086,6513.0,6513.0,3566669,0.0
+2026-09,Hours matched,1090,6418.5,6418.5,3475158,0.0

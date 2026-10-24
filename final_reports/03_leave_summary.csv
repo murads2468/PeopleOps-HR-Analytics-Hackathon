@@ -1,0 +1,10 @@
+leave_type,leave_status,request_count,requested_days
+Annual,Approved,2250,6871
+Annual,Cancelled,134,408
+Annual,Rejected,319,968
+Casual,Approved,1335,2040
+Casual,Cancelled,69,102
+Casual,Rejected,207,300
+Sick,Approved,849,1685
+Sick,Cancelled,51,102
+Sick,Rejected,158,323
